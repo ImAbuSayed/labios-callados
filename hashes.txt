@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios callados
+
+This log tracks the cryptographic history and versioning for the song **Labios callados** (labios-callados).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:18:26.991934 | `v1` | `e0ebf08a42dbdad1d53fa0966869329d41b8108bf99f432c4f2185760edb589e` | `493f0c6e1805c73dc2e14478ea4b8a655e9b88afc12f761b2a391f53a17dd2d6` | `2026-06-19_labios-callados-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
