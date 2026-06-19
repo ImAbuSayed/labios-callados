@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Silent lips, but the way you move is speaking loud
+> You and me connecting, fading out the heavy crowd
+> We got that midnight magic pulling us across the floor
+> One taste of your love is gonna leave me wanting more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
